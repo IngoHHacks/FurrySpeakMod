@@ -1,0 +1,11 @@
+{
+  "namespace": "IngoH",
+  "name": "Furry_Speak_Language",
+  "description": "Furry Speak language for Cult of the Lamb",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_CultOfTheLamb-5.4.21",
+    "xhayper-COTL_API-0.1.7"
+  ],
+  "website_url": "https://github.com/IngoHHacks/FurrySpeakMod"
+}
